@@ -31,5 +31,11 @@ We've had a wide range of guests from a wide range of cultural and political vie
 * [Seán Napier](https://twitter.com/Seanofthesouth)
 * [Peter Shirlow](https://twitter.com/PeterShirlow)
 * [Jon Tonge](https://twitter.com/JonTonge)
+* [Emma De Souza](https://twitter.com/EmmandJDeSouza)
+* [Ray McKimm](https://twitter.com/raymckimm)
+* [Ryan McCready](https://twitter.com/Ryan_McCready)
+* [Stewart Dickson](https://twitter.com/stewartcdickson)
+* [Matthew Beaumont](https://twitter.com/themrmatthew)
+* [Matthew Robinson](https://twitter.com/matrobinson)
 * Mick Fealty
 
