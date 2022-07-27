@@ -26,6 +26,12 @@ Harassment towards others while on the space
 
 Haranguing and shouting over guests, and other speakers. Contributions will be limited to 2 minutes in order to give everyone a fair chance at speaking.
 
+Speakers should avoid making comments that are libellous or otherwise illegal.
+
+**Organisers reserve the right to remove anyone that makes libellous remarks, notwithstanding this, organisers accept no responsibility for remarks made on the space.**
+
+
+
 **Any violation of the above will result in speakers being relegated to listeners**
 
 **Any repeat violations will result in accounts being blocked**
