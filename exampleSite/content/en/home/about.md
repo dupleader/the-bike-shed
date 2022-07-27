@@ -4,7 +4,7 @@ image: "profile.jpg"
 weight: 8
 ---
 
-The Bike Shed is run by a team of Twitter accounts that arrange to speak to interesting individuals to discuss their views on culture, politics, and current affairs on a **Twitter Space**, they are usually Fridays nights and are hosted from [TheBikeShed](https://twitter.com/TheBikeShed).
+The Bike Shed is run by a team of Twitter accounts that arrange to speak to interesting individuals to discuss their views on culture, politics, and current affairs on a **Twitter Space**, they are usually Fridays nights (Irish/UK time) and are hosted from [TheBikeShed](https://twitter.com/TheBikeShed).
 
 The Bike Shed was previously known as *ParodiesDoPolitics*
 
