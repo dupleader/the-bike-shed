@@ -29,4 +29,7 @@ We've had a wide range of guests from a wide range of cultural and political vie
 * [Dermot Devlin](https://twitter.com/castleDD)
 * [Michaela Hollywood](https://twitter.com/KylaHollywood)
 * [Seán Napier](https://twitter.com/Seanofthesouth)
+* [Peter Shirlow](https://twitter.com/PeterShirlow)
+* [Jon Tonge](https://twitter.com/JonTonge)
+* Mick Fealty
 
