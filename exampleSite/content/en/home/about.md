@@ -12,6 +12,8 @@ The Bike Shed was previously know as *ParodiesDoPolitics*
 
 We've had a wide range of guests from a wide range of cultural and political views and causes. We usually talk to guests that are of interest to an Irish/Northern Irish audience.
 
+Previously we've talked to the following great guests:
+
 * [Doug Beattie MLA](https://twitter.com/BeattieDoug)
 * [Simon Hoare MP](https://twitter.com/Simon4NDorset)
 * [Claire Hanna MP](https://twitter.com/ClaireHanna)
