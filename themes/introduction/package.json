@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "npm install -g postcss postcss-cli autoprefixer && cd exampleSite && hugo --gc --minify -t ../.. -d ../docs -v -b https://hugo-introduction.netlify.app/",
+    "build": "npm install -g postcss postcss-cli autoprefixer && cd ../../exampleSite && hugo --gc --minify --themesDir ../themes/ -d ../docs -v -b https://thebikeshed.space/",
     "dev": "cd exampleSite && ENVIRONMENT=development hugo -t ../.. server"
   },
   "devDependencies": {
