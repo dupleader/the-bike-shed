@@ -24,10 +24,11 @@ Trolling, insulting/derogatory comments, and personal or political attacks
 
 Harassment towards others while on the space
 
-Haranguing and shouting over guests, and other speakers. Contributions should be limited to 2 minutes in order to give everyone a fair chance at speaking.
+Haranguing and shouting over guests, and other speakers. Contributions will be limited to 2 minutes in order to give everyone a fair chance at speaking.
 
 **Any violation of the above will result in speakers being relegated to listeners**
 
+**Any repeat violations will result in accounts being blocked**
 
 **The organisers are not responsible for any behaviour by speakers outside the space (tweets for example)**
 
