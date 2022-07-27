@@ -25,7 +25,9 @@ Haranguing and shouting over guests, and other speakers. Contributions should be
 
 
 **The organisers are not responsible for any behaviour by speakers outside the space (tweets for example)**
+
 **The organisers will not be involving themselves in personal disagreements between any participants**
+
 **Not everybody is guaranteed the opportunity to speak**
 
 
