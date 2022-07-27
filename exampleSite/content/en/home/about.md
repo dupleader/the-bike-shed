@@ -8,7 +8,7 @@ The Bike Shed is run by a team of Twitter accounts that arrange to speak to inte
 
 The Bike Shed was previously known as *ParodiesDoPolitics*
 
-### What notable guests have we talked to before?
+### Previous Guests.
 
 We've had a wide range of guests from a wide range of cultural and political views and causes. We usually talk to guests that are of interest to an Irish/Northern Irish audience.
 
