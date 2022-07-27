@@ -36,10 +36,12 @@ Previously we've talked to the following great guests:
 * [Emma De Souza](https://twitter.com/EmmandJDeSouza)
 * [Ray McKimm](https://twitter.com/raymckimm)
 * [Ryan McCready](https://twitter.com/Ryan_McCready)
-* [Stewart Dickson](https://twitter.com/stewartcdickson)
+* [Stewart Dickson MLA](https://twitter.com/stewartcdickson)
 * [Matthew Beaumont](https://twitter.com/themrmatthew)
 * [Matthew Robinson](https://twitter.com/matrobinson)
 * [Mal O'Hara](https://twitter.com/oharamal)
 * [Tristan Morrow](https://twitter.com/TrisBurnedLands)
 * [Dr John Kyle](https://twitter.com/cllrjohnkyle)
+* [Gerry Carroll MLA](https://twitter.com/GerryCarrollPBP)
+* [Joel Keys](https://twitter.com/JoelKeysNI)
 * Mick Fealty
