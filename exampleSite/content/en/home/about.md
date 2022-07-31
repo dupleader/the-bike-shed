@@ -45,3 +45,4 @@ Previously we've talked to the following great guests:
 * [Gerry Carroll MLA](https://twitter.com/GerryCarrollPBP)
 * [Joel Keys](https://twitter.com/JoelKeysNI)
 * Mick Fealty
+* [Angus MacNeil MP](https://twitter.com/AngusMacNeilSNP)
