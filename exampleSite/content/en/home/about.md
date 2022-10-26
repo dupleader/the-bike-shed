@@ -46,3 +46,12 @@ Previously we've talked to the following great guests:
 * [Joel Keys](https://twitter.com/JoelKeysNI)
 * Mick Fealty
 * [Angus MacNeil MP](https://twitter.com/AngusMacNeilSNP)
+* [Gino Kenny TD](https://twitter.com/Ginosocialist)
+* [Julie Anne-Corr](https://twitter.com/JulieACorr)
+* [Peter Donaghy](https://twitter.com/peterdonaghy)
+* [Cathal Berry TD](https://twitter.com/BerryCathal)
+* [Stephen Farry MP](https://twitter.com/StephenFarryMP)
+* [Baroness Margeret Ritchie](https://twitter.com/MRitchieSD)
+* [Claire Kerrane TD](https://twitter.com/ClaireKerrane)
+* [Anton Spisak](https://twitter.com/AntonSpisak)
+* [Ger Dooley](https://twitter.com/131Weeks)
